@@ -11,7 +11,7 @@ Run with "./wireview {numPackets} {fileName}".
 ./wireview {numPackets} {fileName}
 
 {numPackets}:
--1 for all packets in file
+-1 for all packets in file (if using network card as source, -1 will loop infinitely until Ctrl+C)
 
 {fileName}:
 name of file to open with extension
