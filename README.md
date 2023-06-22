@@ -1,5 +1,5 @@
 # Wireshark-Clone
-A linux terminal-based clone of wireshark to analyze network packets. Currently configured to analyze packets saved to a PCAP file, sample files provided.s
+A linux CLI clone of wireshark to analyze network packets. Currently configured to analyze packets saved to a PCAP file, sample files provided.  Features extremely simple.
 
 Analyzing network packets on your network may be against usepolicies defined by your network administrators.
 I AM NOT RESPONSIBLE FOR ANY USE OF THIS PROGRAM. CREATION EXISTS FOR EDUCATIONAL PURPOSES ONLY.
